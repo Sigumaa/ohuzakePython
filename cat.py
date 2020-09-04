@@ -11,5 +11,4 @@ for name in cat_names:
 	print('　' + name)
 
 
-
 end = input("エンターで終了")

@@ -13,4 +13,4 @@ while True:
 		print(name + "の誕生日は未登録です。\n誕生日を入力してください")
 		bday = input()
 		birthdays[name] = bday
-		print("更新したよ")
+		print("更新したよ\n")
